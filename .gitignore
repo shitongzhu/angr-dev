@@ -1,6 +1,10 @@
 *.core
 core
 */
+
+# Unignore angr dir
+!angr/
+
 .gdb_history
 !admin/
 admin/setup.py

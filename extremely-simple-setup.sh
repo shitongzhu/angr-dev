@@ -17,7 +17,7 @@ git clone https://github.com/angr/vex.git
 git clone https://github.com/angr/pyvex.git
 git clone https://github.com/angr/claripy.git
 git clone https://github.com/angr/cle.git
-git clone https://github.com/angr/angr.git
+git clone https://github.com/shitongzhu/angr.git
 git clone https://github.com/angr/ailment.git
 git clone https://github.com/angr/angr-doc.git
 git clone https://github.com/angr/binaries.git
